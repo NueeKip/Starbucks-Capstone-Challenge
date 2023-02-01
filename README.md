@@ -1,6 +1,7 @@
+![Medium Blog](https://medium.com/@cheruiyotemmanuel/starbucks-capstone-challenge-9ff9e0d20ede)
+
 ![Starbucks logo](https://th.bing.com/th/id/OIP.IRO-Tiax2ckaruqxocO__QHaHa?w=172&h=180&c=7&r=0&o=5&pid=1.7)
-![Medium](https://th.bing.com/th/id/R.de0f8f4653b7c2b80c6adbc5b000eba8?rik=Q4alQ%2f0wJaUqRQ&pid=ImgRaw&r=0)
-![Medium](https://medium.com/@cheruiyotemmanuel/starbucks-capstone-challenge-9ff9e0d20ede)
+
 <h1><center> Starbuck's Capstone Challenge </center><h1>
 
 ## Table of Contents
